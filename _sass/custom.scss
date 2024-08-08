@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+$body-font-family: 'Roboto, sans-serif';
+$background-color: #000000; // Color de fondo negro
+$text-color: #FFFFFF; 
+
+// Aplicar el color de fondo al body
+body {
+    background-color: $background-color;
+    color: $text-color; // Asegurar que el texto sea legible en un fondo oscuro
+}
+  
+  // Ajustar colores de otros elementos según sea necesario
+a {
+    color: lighten($text-color, 20%); // Ajustar el color de los enlaces
+}
+  
