@@ -31,11 +31,11 @@ No te pierdas nuestras secciones:
 
 En esta sección, te traemos las noticias más recientes y relevantes del mundo de la ciberseguridad. Mantente al día con los eventos y desarrollos que han marcado la última semana.
 
-### [¡Semana 11 publicada!]({{ site.baseurl }}/ciber/newsletter/-newsletter/)
+### [¡Semana 12 publicada!]({{ site.baseurl }}/ciber/newsletter/-newsletter/)
 
-![Week 11]({{ site.baseurl }}/ciber/newsletter/img/2025/11/11-0.png){: .css-imagen-cabecera}
+![Week 12]({{ site.baseurl }}/ciber/newsletter/img/2025/12/12-0.png){: .css-imagen-cabecera}
 
-En un entorno digital cada vez más vulnerable, los ciberataques están evolucionando rápidamente. Este mes, destacamos varios riesgos clave en ciberseguridad. En primer lugar, se ha descubierto una técnica que permite a extensiones maliciosas suplantar complementos instalados en navegadores, lo que representa una amenaza para los usuarios. Además, los ataques de phishing en EE. UU. han aumentado debido a nuevos kits fraudulentos provenientes de China, que suplantan operadores de peajes. La seguridad en la nube se ha vuelto esencial, ya que los riesgos de protección de datos crecen con su adopción. También, una nueva campaña de malware disfraza un minero de criptomonedas para infectar a los usuarios. Finalmente, los ataques de malvertising y smishing siguen siendo amenazas crecientes. En este contexto, es crucial adoptar estrategias de protección efectivas para mitigar los riesgos.
+El panorama digital sigue siendo cada vez más amenazante. Este mes, destacan varios riesgos críticos. En EE. UU., se ha incrementado el smishing dirigido a usuarios de peajes para robar datos personales. Además, se descubrieron graves vulnerabilidades en la biblioteca ruby-saml, poniendo en riesgo la autenticación en muchas aplicaciones.La seguridad en la nube preocupa por el aumento de ataques de ransomware contra depósitos mal configurados. También, un incidente en GitHub comprometió miles de repositorios filtrando secretos.En cuanto al malware, campañas recientes propagan el clipper MassJacker entre usuarios de software pirata y el rootkit r77 mediante ingeniería social. Por último, Microsoft alertó sobre la campaña de phishing "Storm-1865", que afecta al sector hotelero suplantando a Booking.com. Ante estas amenazas, es clave reforzar las medidas de protección.
 
 ## Suscribirse
 
